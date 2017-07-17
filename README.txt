@@ -1,1 +1,1 @@
-Exercice concernant les cours sur GIT et accessoirement cela me servira de base pour mon Projet
+Blog du prochain roman de Jean Forteroche " Billet simple pour l'Alaska "
