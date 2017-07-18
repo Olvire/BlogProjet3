@@ -12,7 +12,7 @@
     <script>window.jQuery || document.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"><\/script>')</script>
     <script src="bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.9.4/holder.min.js"></script>    
-    <title>Billet Simple pour l'Alaska</title>
+    <title>Billet Simple pour l'Alaska.</title>
   </head>
 <!-- NAVBAR
 ================================================== -->
