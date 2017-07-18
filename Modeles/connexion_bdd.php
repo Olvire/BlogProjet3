@@ -3,7 +3,7 @@
 // Connexion à la base de données
 try
 {
-    $bdd = new PDO('mysql:host=localhost;dbname=BlogProjet3', 'root', '');
+    $bdd = new PDO('mysql:host=localhost;dbname=blogprojet3', 'root', '');
 }
 catch(Exception $e)
 {
