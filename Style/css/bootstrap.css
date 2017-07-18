@@ -11,10 +11,6 @@ html {
 }
 body {
   margin: 0;
-  background-image: url(../Style/images/montableau.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
 }
 
 
@@ -4970,13 +4966,13 @@ a.badge:focus {
 }
 .jumbotron h1,
 .jumbotron .h1 {
-  color: white;
+  color: black;
 }
 .jumbotron p {
   margin-bottom: 15px;
   font-size: 21px;
   font-weight: 200;
-  color: white;
+  color: black;
 }
 .jumbotron > hr {
   border-top-color: #d5d5d5;
