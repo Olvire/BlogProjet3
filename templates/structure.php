@@ -54,8 +54,8 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>Hello, world!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <h1>Blog de Jean Forteroche</h1>
+        <p>Bienvenue sur le blog de mon nouveau roman " Billet simple pour l'Alaska". Au travers de ce blog je tente une expérience d'écriture collaborative, à savoir que je mettrai les chapitres en lignes au fur et à mesure et vous, mes fidèles lecteurs, pourrez y apporter vos commentaires et suggestions quant au contenu. Les meilleurs idées seront retenues et ajoutées à la mouture finale du roman.</p>
         <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
       </div>
     </div>
