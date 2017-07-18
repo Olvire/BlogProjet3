@@ -1,0 +1,4 @@
+AuthName "Vous accédez à la page d'administration du site"
+AuthType Basic
+AuthUserFile "/wamp64/www/Projet3/.htpasswd"
+Require valid-user
