@@ -97,18 +97,18 @@
       </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
+        <span class="sr-only">Précédent</span>
       </a>
       <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
+        <span class="sr-only">Suivant</span>
       </a>
     </div>
 
     <div class="jumbotron">
       <div class="container">
         <p>Bienvenue sur le blog de mon nouveau roman " Billet simple pour l'Alaska". Au travers de ce blog je tente une expérience d'écriture collaborative, à savoir que je mettrai les chapitres en lignes au fur et à mesure et vous, mes fidèles lecteurs, pourrez y apporter vos commentaires et suggestions quant au contenu. Les meilleurs idées seront retenues et ajoutées à la mouture finale du roman.</p>
-        <p>Vous trouverez mis en avant sur cette page les derniers chapitres produits, les autres sont toujours disponibles par le biais du menu de navigation. Bonne lecture :)</p>
+        <p>Vous trouverez mis en avant ci-dessous sur cette page les derniers chapitres produits, les autres sont toujours disponibles par le biais du menu de navigation. Bonne lecture :)</p>
       </div>
     </div>
 
