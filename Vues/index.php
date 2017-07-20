@@ -118,7 +118,7 @@
         <div class="col-lg-4">
 
             <h2>
-              <?php echo $chapitres['contenu_chap']; ?>
+              <?php echo $chapitres['titre_chap']; ?>
               <em>le <<?php echo $chapitres['date_creation_fr']; ?></em>
             </h2>
 
@@ -134,7 +134,7 @@
         <div class="col-lg-4">
 
             <h2>
-              <?php echo $chapitres['contenu_chap']; ?>
+              <?php echo $chapitres['titre_chap']; ?>
               <em>le <<?php echo $chapitres['date_creation_fr']; ?></em>
             </h2>
 
@@ -148,7 +148,7 @@
         <div class="col-lg-4">
 
             <h2>
-              <?php echo $chapitres['contenu_chap']; ?>
+              <?php echo $chapitres['titre_chap']; ?>
               <em>le <<?php echo $chapitres['date_creation_fr']; ?></em>
             </h2>
 
