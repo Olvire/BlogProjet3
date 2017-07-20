@@ -158,12 +158,8 @@
             </p>
             <p><a class="btn btn-default" href="#" role="button">En lire plus &raquo;</a></p>
         </div>
+        
       </div>
-
-
     </div>
-
-
-
   </body>
 </html>
