@@ -119,11 +119,11 @@
 
             <h2>
               <? $chapitres->getTitre_chap(); ?>
-              <em>le <?php echo $chapitre['date_creation_fr']; ?></em>
+              <em>le <? $chapitres->getDate_chap(); ?></em>
             </h2>
 
             <p>
-            <?php echo $chapitre['contenu_chap']; ?>
+            <? $chapitres->getContenu_chap(); ?>
             <em><a href="#">Commentaires</a></em>
             </p>
 
@@ -134,12 +134,12 @@
         <div class="col-lg-4">
 
             <h2>
-              <?php echo $chapitre['titre_chap']; ?>
-              <em>le <?php echo $chapitre['date_creation_fr']; ?></em>
+              <? $chapitres->getTitre_chap(); ?>
+              <em>le <? $chapitres->getDate_chap(); ?></em>
             </h2>
 
             <p>
-            <?php echo $chapitre['contenu_chap']; ?>
+            <? $chapitres->getContenu_chap(); ?>
             <em><a href="#">Commentaires</a></em>
             </p>
             <p><a class="btn btn-default" href="#" role="button">En lire plus &raquo;</a></p>
@@ -148,12 +148,12 @@
         <div class="col-lg-4">
 
             <h2>
-              <?php echo $chapitre['titre_chap']; ?>
-              <em>le <?php echo $chapitre['date_creation_fr']; ?></em>
+              <? $chapitres->getTitre_chap(); ?>
+              <em>le <? $chapitres->getDate_chap(); ?></em>
             </h2>
 
             <p>
-            <?php echo $chapitre['contenu_chap']; ?>
+            <? $chapitres->getContenu_chap(); ?>
             <em><a href="#">Commentaires</a></em>
             </p>
             <p><a class="btn btn-default" href="#" role="button">En lire plus &raquo;</a></p>
