@@ -118,7 +118,7 @@
         <div class="col-lg-4">
 
             <h2>
-              <?php echo $chapitre['titre_chap']; ?>
+              <? $chapitres->getTitre_chap(); ?>
               <em>le <?php echo $chapitre['date_creation_fr']; ?></em>
             </h2>
 
